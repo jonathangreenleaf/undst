@@ -61,7 +61,7 @@ LD_LIBRARY_PATH=/opt/hdf5/lib/
 
 validate there:
 *echo $LD_LIBRARY_PATH*<br>
-should return /opt/hdf5/lib/
+should return /opt/hdf5/lib/<br>
 all set with requirements at this point
 
 
